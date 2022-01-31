@@ -1,12 +1,12 @@
 Instrucciones de instalacion:
 
-Este backend fue creado con laragon, si usa una base de datos distinta, debe usar su base de daton en los pasos en los que se indica que se use laragon.
+Este backend fue creado con laragon, si usa una base de datos distinta, debe usar su base de datos en los pasos en los que se indica que se use laragon.
 
 1._installar laragon
 
 2._Abrir con la terminar la ubicacion C:\laragon\www\ y ejecutar el comando: git clone https://github.com/MerceloTheKid/Backend-mundo-pacifico.git
 
-3._Si no tiene composer instalado ejecutar el comando: composer install
+3._Si no tiene composer instalado ejecutar en la terminal el comando: composer install
 
 4._Cambiar el nombre del archivo .env.example a .env
 
